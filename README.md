@@ -12,6 +12,8 @@
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 - ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
+※ C#はWPF/WindowsForms C++はArduino
+
 ---
 
 Server / Network からデスクトップアプリ、Webアプリ、IoT開発まで、幅広く手を動かしています。  
@@ -19,9 +21,3 @@ Server / Network からデスクトップアプリ、Webアプリ、IoT開発ま
 常に新しい技術を追求し、さまざまな視点から物事を考える「技術変態」を目指して日々挑戦中 🚀
 
 ---
-
-## 📊 GitHub Stats
-![ymk-1024's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymk-1024&show_icons=true&theme=tokyonight&count_private=true)
-
-## 🔥 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymk-1024&layout=compact&theme=tokyonight)
