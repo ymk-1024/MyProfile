@@ -1,6 +1,15 @@
-# MyProfile
-自己紹介
+# はじめまして！こんにちは！
 
+## SkillStacks
+* Node.js (Express)
+* C#(WPF/WindowsForm)
+* C++(Arduino)
+* JavaScript/TypeScript(React)
+* 自宅鯖(PVE/Linux)
+* Mysql/Supabase
 
-## 📊 GitHub Stats
-![ymk-1024's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymk-1024&show_icons=true&theme=tokyonight&count_private=true)
+こんにちは！
+
+Server / Network からデスクトップアプリケーション、 Webアプリケーション、IoT開発まで、幅広い技術に触れています。
+
+常に新しい技術を学び、様々な視点から物事を考え、 いい意味で「変態」を目指して日々学習しています。
