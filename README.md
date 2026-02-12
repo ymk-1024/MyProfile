@@ -1,15 +1,27 @@
-# はじめまして！こんにちは！
+# はじめまして！こんにちは 👋
 
-## SkillStacks
-* Node.js (Express)
-* C#(WPF/WindowsForm)
-* C++(Arduino)
-* JavaScript/TypeScript(React)
-* 自宅鯖(PVE/Linux)
-* Mysql/Supabase
+![Profile Banner](https://img.shields.io/badge/Welcome-👋-blue)
 
-こんにちは！
+## Skill Stacks
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+- ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
-Server / Network からデスクトップアプリケーション、 Webアプリケーション、IoT開発まで、幅広い技術に触れています。
+---
 
-常に新しい技術を学び、様々な視点から物事を考え、 いい意味で「変態」を目指して日々学習しています。
+Server / Network からデスクトップアプリ、Webアプリ、IoT開発まで、幅広く手を動かしています。  
+
+常に新しい技術を追求し、さまざまな視点から物事を考える「技術変態」を目指して日々挑戦中 🚀
+
+---
+
+## 📊 GitHub Stats
+![ymk-1024's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymk-1024&show_icons=true&theme=tokyonight&count_private=true)
+
+## 🔥 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymk-1024&layout=compact&theme=tokyonight)
